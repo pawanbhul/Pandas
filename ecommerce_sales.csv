@@ -1,0 +1,11 @@
+order_id,customer_name,age,gender,product,category,quantity,price,discount,city,order_date,delivery_days,rating
+1001,Ram Sharma,22,Male,Headphones,Electronics,2,1500,10,Kathmandu,2024-01-01,3,4
+1002,Sita Rai,19,Female,Mobile,Electronics,1,25000,5,Lalitpur,2024-01-02,5,5
+1003,Hari KC,,Male,Laptop,Electronics,1,80000,,Bhaktapur,2024-01-03,7,4
+1004,Gita Thapa,21,Female,T-Shirt,Fashion,3,800,20,Kathmandu,2024-01-04,2,
+1005,John Doe,25,Male,Shoes,Fashion,2,3000,15,,2024-01-05,4,3
+1006,Asha Shrestha,20,Female,Watch,Fashion,1,5000,10,Lalitpur,,3,5
+1007,Bibek Lama,23,Male,Tablet,Electronics,1,45000,5,Kathmandu,2024-01-07,6,4
+1008,Nita Gurung,22,Female,Headphones,Electronics,2,1500,10,Bhaktapur,2024-01-08,3,4
+1009,Kiran Basnet,21,Male,Laptop,Electronics,1,90000,0,Lalitpur,2024-01-09,8,5
+1010,Sabina Kc,,Female,Mobile,Electronics,1,20000,5,Kathmandu,2024-01-10,5,
